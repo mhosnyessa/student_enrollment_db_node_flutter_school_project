@@ -1,5 +1,5 @@
 const express = require('express');
-const connection = require('./index');
+const connection = require('./connection');
 const faker = require('faker');
 
 const app = express();
