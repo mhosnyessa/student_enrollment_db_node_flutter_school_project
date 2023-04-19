@@ -29,7 +29,7 @@ app.get('/records', (req, res) => {
 //   connection.query('USE freedb_student_enrollment', (err, results) => {
   connection.query('SELECT * FROM students', (err, results) => {
     if (err) {
-      console.error('Error fetching records: ', err);
+      console.log('Error fetching records: ', err);
       res.status(500).send('Error fetching records');
     } else {
       res.send(results);
