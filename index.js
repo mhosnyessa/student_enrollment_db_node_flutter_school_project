@@ -55,7 +55,6 @@ const server = http.createServer((req, res) => {
 
 
 
-    setTimeout( function () { 
 
   if (req.url.startsWith("/login")) {
     const urlWithoutEndpoint = req.url.slice("login/".length + 1);
@@ -113,7 +112,7 @@ const server = http.createServer((req, res) => {
     res.write("404 Not Found");
     res.end();
   }
-}, 500 );});
+}, 500 );
 
 const port = process.env.PORT || 3000;
 
