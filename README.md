@@ -2,6 +2,44 @@
 
 ## Purpose
 The purpose of this application is to provide a user-friendly interface for students to view, login, sign up, sign out, and apply for programs offered by an educational institute. Additionally, the app facilitates the management of the application process, including handling payments.
+## Screenshots 
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot_2023-05-07-08-28-21-72_3ba0810e3e0f5779efa4fc1e7febbb65](https://user-images.githubusercontent.com/65831561/236697232-8fe2c985-6170-4e69-9e77-5ac402860726.jpg)
+
+![Screenshot_2023-05-07-08-27-47-50_3ba0810e3e0f5779efa4fc1e7febbb65](https://user-images.githubusercontent.com/65831561/236697388-36a04285-973c-4a4b-933a-336f5a012c1b.jpg)
+
+![Screenshot_2023-05-07-08-27-44-13_3ba0810e3e0f5779efa4fc1e7febbb65](https://user-images.githubusercontent.com/65831561/236697440-47bcc2cc-0029-412c-8b81-159b5e2eca42.jpg)
+
+![Screenshot_2023-05-07-08-28-00-45_3ba0810e3e0f5779efa4fc1e7febbb65](https://user-images.githubusercontent.com/65831561/236697444-69d854c7-2ca7-450c-89cc-9c2a5588d082.jpg)
+
+
+
+
+
+![Screenshot_2023-05-07-08-35-35-73_3ba0810e3e0f5779efa4fc1e7febbb65](https://user-images.githubusercontent.com/65831561/236697447-d7feda83-bc13-46a0-a1a4-e2b18da6895d.jpg)
+
+
+
+![Screenshot_2023-05-07-08-33-17-52](https://user-images.githubusercontent.com/65831561/236697449-0c1dc581-2ceb-46d4-8b62-f54840717547.jpg)
+
+
+
+
+
+
+
+
 
 ## Architecture Overview
 The application follows a client-server architecture with the following components:
